@@ -8,3 +8,4 @@ Drill-Down Capabilities: Uncover deeper insights by analyzing data for specific 
 
 Proactive Retention Strategies: Identify potential areas for improvement and proactively address concerns that may lead to employee turnover.
 Data-Driven Decisions: Gain insights into employee sentiment and make informed decisions to create a more engaging and positive work environment.
+![HR ANALYTICS](https://github.com/shubhamkadam-sk/HR-ANALYTICS-DASHBOARD/assets/80535474/1f3f4cdd-d21b-4526-821a-cf25883cd625)
