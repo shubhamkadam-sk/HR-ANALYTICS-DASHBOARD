@@ -1,4 +1,4 @@
-"Power BI Dashboard: Analyzing Employee Attrition."
+
 This project is a Power BI dashboard designed to help HR professionals understand employee attrition trends and identify the key factors contributing to employee departures.expand_more By visualizing key metrics and allowing for interactive exploration, the dashboard empowers HR to make data-driven decisions and develop effective retention strategies.
 
 Key Features:
